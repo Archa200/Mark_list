@@ -1,0 +1,45 @@
+.name-enter{
+    text-align: end;
+    margin: 200px 300px;
+}
+.add-button{
+    margin-left: 10px;
+}
+
+.container {
+    margin: 200px 300px;    
+    
+}
+
+table {
+    width: 100%;
+    border-collapse: separate; 
+    border-spacing: 8px;
+    
+}
+
+th, td {
+    padding: 8px;
+    background-color: #ddd;
+  }
+
+.button-style {
+    text-align: end;
+}
+
+
+.home-id{
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+}
+.home-name{
+    width: 600px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.home-view{
+    width:200px;
+    border-radius: 5px;
+    text-align: center;
+}
